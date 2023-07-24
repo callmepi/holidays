@@ -1,8 +1,8 @@
 # holidays
 
-ideas for holidays from a group of geeks
+ideas for holidays from a group of family geeks
 
-* Antre
-* DeJo
-* Mary
-* George
+* Antres
+* DeJo Chlakiadaki
+* Mary the Great
+* George Xmas
