@@ -2,7 +2,7 @@
 
 ideas for holidays from a group of geeks
 
-* Antre
-* DeJo
-* Mary
-* George
+* Antre Med
+* DeJo Chalk
+* Mary Halk
+* George Xalkis
