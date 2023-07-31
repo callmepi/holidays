@@ -34,9 +34,3 @@ Grand prix στο Red Bull Ring
 ## Ουγγαρία
 Grand prix στο Hungaroring
 
-Αλλά σαν τον Σένα κανείς! ουτε καν ο Σουμάχερ... (ok, ίσως ο Χαλκιαδάκης)
-
-σαν και εμένα κανείς -- Who are you anyway?
-
-
-
