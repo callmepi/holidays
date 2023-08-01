@@ -24,35 +24,43 @@ _`Push`: The git push command is used to update remote branches with the latest 
 > __``git init``__:
 > Create an empty repository in the project folder
 
+
 > __``git status``__:
 > Display the status of modified files.
+
 
 > __``git add .``__:
 > Add all directory changes to staging.
 
+
 > __``git log``__:
 > Show the history of changes.
 
-> __``git checkout <sub>[branch-name]</sub>``__:
+
+> __``git checkout [ branch-name ]``__:
 > Switch to a branch.
 
-> __``git checkout -b <sub>[branch-name]</sub>``__:
+
+> __``git checkout -b [ branch-name ]``__:
+> Make a new branch and switch to it.
+    _is the same as .._
+> __``git branch [ branch-name ]``__
 > Make a new branch and switch to it.
 
-_is the same as .._
-> __``git branch <sub>[branch-name]</sub>``__
-> Make a new branch and switch to it.
 
 > __``git branch``__:
 > Display a list of all branches.
 
-> __``git branch <sub>[branch-name]</sub>``__:
+
+> __``git branch [ branch-name ]``__:
 > Make a new branch and switch to it.
 
-> __``git branch -d <sub>[branch-name]</sub>``__:
+
+> __``git branch -d [ branch-name ]``__:
 > Delete a branch.
 
-> __``git merge <sub>[branch]</sub>``__:
+
+> __``git merge [ branch ]``__:
 > Merge a different branch with your active branch.
 
 > __``git push``__:
@@ -61,5 +69,5 @@ _is the same as .._
 > __``git pull``__:
 > Retrieve the most recent changes from origin and merge.
 
-> __``git commit [-m] <sub>"message"</sub>``__:
+> __``git commit -m " message "``__:
 > Commit changes along with a custom message.
