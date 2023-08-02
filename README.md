@@ -1,8 +1,8 @@
 # holidays
 
-ideas for holidays from a group of geeks
+ideas for holidays from a group of family geeks
 
-* Antre Med
-* DeJo Chalk
-* Mary Halk
-* George Xalkis
+* Antre Meds
+* DeJo Chalk Chlakiadaki
+* Mary Halk the Great
+* George Xalkis Xmas
